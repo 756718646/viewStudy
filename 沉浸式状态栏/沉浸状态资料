@@ -1,9 +1,20 @@
 郭林沉浸式文章:
 http://blog.csdn.net/guolin_blog/article/details/51763825
+其他文章
+http://blog.csdn.net/jdsjlzx/article/details/46778631
+http://blog.csdn.net/brian512/article/details/52096445
+http://www.liuling123.com/2017/02/transparent-status-bar.html
+
+
+国外一个状态栏样式(SystemBarTint)
+https://github.com/jgilfelt/SystemBarTint
+
+
 
 可以看到，有状态栏、ActionBar、导航栏等。而打造沉浸式模式的用户体验，就是要将这些系统元素全部隐藏，只留下主体内容部分。
 
-
+### 白底黑子模式
+http://www.tuicool.com/articles/2IFrmmm
 非沉浸式下，改变状态字的颜色（如:白底黑字模式）
 这些模式在每个国产手机可能不一样，魅族和小米都提供了具体的实现方式。
 然后android6.0之后，也有这样的实现方式
